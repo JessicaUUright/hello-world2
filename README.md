@@ -1,4 +1,4 @@
 # hello-world2
-First repository
+First repository/
 Edited branch separate from master branch/
-Now it is merged with master branch
+Now it is merged with master branch/
